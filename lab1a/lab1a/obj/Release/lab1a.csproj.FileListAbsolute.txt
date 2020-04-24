@@ -1,0 +1,117 @@
+E:\Study\ПОИБМС-3-Программирование интернет-серверов\2020 год\lab1a\lab1a\bin\lab1a.dll.config
+E:\Study\ПОИБМС-3-Программирование интернет-серверов\2020 год\lab1a\lab1a\bin\lab1a.dll
+E:\Study\ПОИБМС-3-Программирование интернет-серверов\2020 год\lab1a\lab1a\bin\lab1a.pdb
+E:\Study\ПОИБМС-3-Программирование интернет-серверов\2020 год\lab1a\lab1a\bin\roslyn\csc.exe
+E:\Study\ПОИБМС-3-Программирование интернет-серверов\2020 год\lab1a\lab1a\bin\roslyn\csc.exe.config
+E:\Study\ПОИБМС-3-Программирование интернет-серверов\2020 год\lab1a\lab1a\bin\roslyn\csc.rsp
+E:\Study\ПОИБМС-3-Программирование интернет-серверов\2020 год\lab1a\lab1a\bin\roslyn\csi.exe
+E:\Study\ПОИБМС-3-Программирование интернет-серверов\2020 год\lab1a\lab1a\bin\roslyn\csi.exe.config
+E:\Study\ПОИБМС-3-Программирование интернет-серверов\2020 год\lab1a\lab1a\bin\roslyn\csi.rsp
+E:\Study\ПОИБМС-3-Программирование интернет-серверов\2020 год\lab1a\lab1a\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Study\ПОИБМС-3-Программирование интернет-серверов\2020 год\lab1a\lab1a\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Study\ПОИБМС-3-Программирование интернет-серверов\2020 год\lab1a\lab1a\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Study\ПОИБМС-3-Программирование интернет-серверов\2020 год\lab1a\lab1a\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Study\ПОИБМС-3-Программирование интернет-серверов\2020 год\lab1a\lab1a\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Study\ПОИБМС-3-Программирование интернет-серверов\2020 год\lab1a\lab1a\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Study\ПОИБМС-3-Программирование интернет-серверов\2020 год\lab1a\lab1a\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Study\ПОИБМС-3-Программирование интернет-серверов\2020 год\lab1a\lab1a\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Study\ПОИБМС-3-Программирование интернет-серверов\2020 год\lab1a\lab1a\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Study\ПОИБМС-3-Программирование интернет-серверов\2020 год\lab1a\lab1a\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Study\ПОИБМС-3-Программирование интернет-серверов\2020 год\lab1a\lab1a\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Study\ПОИБМС-3-Программирование интернет-серверов\2020 год\lab1a\lab1a\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\Study\ПОИБМС-3-Программирование интернет-серверов\2020 год\lab1a\lab1a\bin\roslyn\System.AppContext.dll
+E:\Study\ПОИБМС-3-Программирование интернет-серверов\2020 год\lab1a\lab1a\bin\roslyn\System.Collections.Immutable.dll
+E:\Study\ПОИБМС-3-Программирование интернет-серверов\2020 год\lab1a\lab1a\bin\roslyn\System.Console.dll
+E:\Study\ПОИБМС-3-Программирование интернет-серверов\2020 год\lab1a\lab1a\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\Study\ПОИБМС-3-Программирование интернет-серверов\2020 год\lab1a\lab1a\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Study\ПОИБМС-3-Программирование интернет-серверов\2020 год\lab1a\lab1a\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Study\ПОИБМС-3-Программирование интернет-серверов\2020 год\lab1a\lab1a\bin\roslyn\System.Globalization.Calendars.dll
+E:\Study\ПОИБМС-3-Программирование интернет-серверов\2020 год\lab1a\lab1a\bin\roslyn\System.IO.Compression.dll
+E:\Study\ПОИБМС-3-Программирование интернет-серверов\2020 год\lab1a\lab1a\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\Study\ПОИБМС-3-Программирование интернет-серверов\2020 год\lab1a\lab1a\bin\roslyn\System.IO.FileSystem.dll
+E:\Study\ПОИБМС-3-Программирование интернет-серверов\2020 год\lab1a\lab1a\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Study\ПОИБМС-3-Программирование интернет-серверов\2020 год\lab1a\lab1a\bin\roslyn\System.Net.Http.dll
+E:\Study\ПОИБМС-3-Программирование интернет-серверов\2020 год\lab1a\lab1a\bin\roslyn\System.Net.Sockets.dll
+E:\Study\ПОИБМС-3-Программирование интернет-серверов\2020 год\lab1a\lab1a\bin\roslyn\System.Reflection.Metadata.dll
+E:\Study\ПОИБМС-3-Программирование интернет-серверов\2020 год\lab1a\lab1a\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Study\ПОИБМС-3-Программирование интернет-серверов\2020 год\lab1a\lab1a\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Study\ПОИБМС-3-Программирование интернет-серверов\2020 год\lab1a\lab1a\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Study\ПОИБМС-3-Программирование интернет-серверов\2020 год\lab1a\lab1a\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Study\ПОИБМС-3-Программирование интернет-серверов\2020 год\lab1a\lab1a\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Study\ПОИБМС-3-Программирование интернет-серверов\2020 год\lab1a\lab1a\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Study\ПОИБМС-3-Программирование интернет-серверов\2020 год\lab1a\lab1a\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\Study\ПОИБМС-3-Программирование интернет-серверов\2020 год\lab1a\lab1a\bin\roslyn\System.ValueTuple.dll
+E:\Study\ПОИБМС-3-Программирование интернет-серверов\2020 год\lab1a\lab1a\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Study\ПОИБМС-3-Программирование интернет-серверов\2020 год\lab1a\lab1a\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Study\ПОИБМС-3-Программирование интернет-серверов\2020 год\lab1a\lab1a\bin\roslyn\System.Xml.XPath.dll
+E:\Study\ПОИБМС-3-Программирование интернет-серверов\2020 год\lab1a\lab1a\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Study\ПОИБМС-3-Программирование интернет-серверов\2020 год\lab1a\lab1a\bin\roslyn\vbc.exe
+E:\Study\ПОИБМС-3-Программирование интернет-серверов\2020 год\lab1a\lab1a\bin\roslyn\vbc.exe.config
+E:\Study\ПОИБМС-3-Программирование интернет-серверов\2020 год\lab1a\lab1a\bin\roslyn\vbc.rsp
+E:\Study\ПОИБМС-3-Программирование интернет-серверов\2020 год\lab1a\lab1a\bin\roslyn\VBCSCompiler.exe
+E:\Study\ПОИБМС-3-Программирование интернет-серверов\2020 год\lab1a\lab1a\bin\roslyn\VBCSCompiler.exe.config
+E:\Study\ПОИБМС-3-Программирование интернет-серверов\2020 год\lab1a\lab1a\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Study\ПОИБМС-3-Программирование интернет-серверов\2020 год\lab1a\lab1a\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Study\ПОИБМС-3-Программирование интернет-серверов\2020 год\lab1a\lab1a\obj\Release\lab1a.csprojAssemblyReference.cache
+E:\Study\ПОИБМС-3-Программирование интернет-серверов\2020 год\lab1a\lab1a\obj\Release\lab1a.csproj.CopyComplete
+E:\Study\ПОИБМС-3-Программирование интернет-серверов\2020 год\lab1a\lab1a\obj\Release\lab1a.dll
+E:\Study\ПОИБМС-3-Программирование интернет-серверов\2020 год\lab1a\lab1a\obj\Release\lab1a.pdb
+C:\SITES\lab1a\lab1a\bin\lab1a.dll.config
+C:\SITES\lab1a\lab1a\bin\lab1a.dll
+C:\SITES\lab1a\lab1a\bin\lab1a.pdb
+C:\SITES\lab1a\lab1a\bin\roslyn\csc.exe
+C:\SITES\lab1a\lab1a\bin\roslyn\csc.exe.config
+C:\SITES\lab1a\lab1a\bin\roslyn\csc.rsp
+C:\SITES\lab1a\lab1a\bin\roslyn\csi.exe
+C:\SITES\lab1a\lab1a\bin\roslyn\csi.exe.config
+C:\SITES\lab1a\lab1a\bin\roslyn\csi.rsp
+C:\SITES\lab1a\lab1a\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\SITES\lab1a\lab1a\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\SITES\lab1a\lab1a\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\SITES\lab1a\lab1a\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\SITES\lab1a\lab1a\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\SITES\lab1a\lab1a\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\SITES\lab1a\lab1a\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\SITES\lab1a\lab1a\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\SITES\lab1a\lab1a\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\SITES\lab1a\lab1a\bin\roslyn\Microsoft.Managed.Core.targets
+C:\SITES\lab1a\lab1a\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\SITES\lab1a\lab1a\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\SITES\lab1a\lab1a\bin\roslyn\System.AppContext.dll
+C:\SITES\lab1a\lab1a\bin\roslyn\System.Collections.Immutable.dll
+C:\SITES\lab1a\lab1a\bin\roslyn\System.Console.dll
+C:\SITES\lab1a\lab1a\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\SITES\lab1a\lab1a\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\SITES\lab1a\lab1a\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\SITES\lab1a\lab1a\bin\roslyn\System.Globalization.Calendars.dll
+C:\SITES\lab1a\lab1a\bin\roslyn\System.IO.Compression.dll
+C:\SITES\lab1a\lab1a\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\SITES\lab1a\lab1a\bin\roslyn\System.IO.FileSystem.dll
+C:\SITES\lab1a\lab1a\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\SITES\lab1a\lab1a\bin\roslyn\System.Net.Http.dll
+C:\SITES\lab1a\lab1a\bin\roslyn\System.Net.Sockets.dll
+C:\SITES\lab1a\lab1a\bin\roslyn\System.Reflection.Metadata.dll
+C:\SITES\lab1a\lab1a\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\SITES\lab1a\lab1a\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\SITES\lab1a\lab1a\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\SITES\lab1a\lab1a\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\SITES\lab1a\lab1a\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\SITES\lab1a\lab1a\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\SITES\lab1a\lab1a\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\SITES\lab1a\lab1a\bin\roslyn\System.ValueTuple.dll
+C:\SITES\lab1a\lab1a\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\SITES\lab1a\lab1a\bin\roslyn\System.Xml.XmlDocument.dll
+C:\SITES\lab1a\lab1a\bin\roslyn\System.Xml.XPath.dll
+C:\SITES\lab1a\lab1a\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\SITES\lab1a\lab1a\bin\roslyn\vbc.exe
+C:\SITES\lab1a\lab1a\bin\roslyn\vbc.exe.config
+C:\SITES\lab1a\lab1a\bin\roslyn\vbc.rsp
+C:\SITES\lab1a\lab1a\bin\roslyn\VBCSCompiler.exe
+C:\SITES\lab1a\lab1a\bin\roslyn\VBCSCompiler.exe.config
+C:\SITES\lab1a\lab1a\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\SITES\lab1a\lab1a\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\SITES\lab1a\lab1a\obj\Release\lab1a.csproj.CoreCompileInputs.cache
+C:\SITES\lab1a\lab1a\obj\Release\lab1a.csproj.CopyComplete
+C:\SITES\lab1a\lab1a\obj\Release\lab1a.dll
+C:\SITES\lab1a\lab1a\obj\Release\lab1a.pdb
+C:\SITES\lab1a\lab1a\obj\Release\lab1a.csprojAssemblyReference.cache
