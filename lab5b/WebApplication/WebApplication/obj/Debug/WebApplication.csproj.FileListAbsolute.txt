@@ -1,0 +1,392 @@
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_05\05a\WebApplication\WebApplication\bin\ApplicationInsights.config
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_05\05a\WebApplication\WebApplication\bin\WebApplication.dll.config
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_05\05a\WebApplication\WebApplication\bin\WebApplication.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_05\05a\WebApplication\WebApplication\bin\WebApplication.pdb
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_05\05a\WebApplication\WebApplication\bin\roslyn\csc.exe
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_05\05a\WebApplication\WebApplication\bin\roslyn\csc.exe.config
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_05\05a\WebApplication\WebApplication\bin\roslyn\csc.rsp
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_05\05a\WebApplication\WebApplication\bin\roslyn\csi.exe
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_05\05a\WebApplication\WebApplication\bin\roslyn\csi.exe.config
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_05\05a\WebApplication\WebApplication\bin\roslyn\csi.rsp
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_05\05a\WebApplication\WebApplication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_05\05a\WebApplication\WebApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_05\05a\WebApplication\WebApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_05\05a\WebApplication\WebApplication\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_05\05a\WebApplication\WebApplication\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_05\05a\WebApplication\WebApplication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_05\05a\WebApplication\WebApplication\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_05\05a\WebApplication\WebApplication\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_05\05a\WebApplication\WebApplication\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_05\05a\WebApplication\WebApplication\bin\roslyn\Microsoft.Managed.Core.targets
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_05\05a\WebApplication\WebApplication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_05\05a\WebApplication\WebApplication\bin\roslyn\System.AppContext.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_05\05a\WebApplication\WebApplication\bin\roslyn\System.Collections.Immutable.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_05\05a\WebApplication\WebApplication\bin\roslyn\System.Console.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_05\05a\WebApplication\WebApplication\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_05\05a\WebApplication\WebApplication\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_05\05a\WebApplication\WebApplication\bin\roslyn\System.IO.Compression.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_05\05a\WebApplication\WebApplication\bin\roslyn\System.IO.FileSystem.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_05\05a\WebApplication\WebApplication\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_05\05a\WebApplication\WebApplication\bin\roslyn\System.IO.Pipes.AccessControl.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_05\05a\WebApplication\WebApplication\bin\roslyn\System.IO.Pipes.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_05\05a\WebApplication\WebApplication\bin\roslyn\System.Reflection.Metadata.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_05\05a\WebApplication\WebApplication\bin\roslyn\System.Security.AccessControl.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_05\05a\WebApplication\WebApplication\bin\roslyn\System.Security.Claims.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_05\05a\WebApplication\WebApplication\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_05\05a\WebApplication\WebApplication\bin\roslyn\System.Security.Cryptography.Encoding.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_05\05a\WebApplication\WebApplication\bin\roslyn\System.Security.Cryptography.Primitives.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_05\05a\WebApplication\WebApplication\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_05\05a\WebApplication\WebApplication\bin\roslyn\System.Security.Principal.Windows.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_05\05a\WebApplication\WebApplication\bin\roslyn\System.Text.Encoding.CodePages.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_05\05a\WebApplication\WebApplication\bin\roslyn\System.ValueTuple.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_05\05a\WebApplication\WebApplication\bin\roslyn\System.Xml.ReaderWriter.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_05\05a\WebApplication\WebApplication\bin\roslyn\System.Xml.XmlDocument.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_05\05a\WebApplication\WebApplication\bin\roslyn\System.Xml.XPath.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_05\05a\WebApplication\WebApplication\bin\roslyn\System.Xml.XPath.XDocument.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_05\05a\WebApplication\WebApplication\bin\roslyn\vbc.exe
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_05\05a\WebApplication\WebApplication\bin\roslyn\vbc.exe.config
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_05\05a\WebApplication\WebApplication\bin\roslyn\vbc.rsp
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_05\05a\WebApplication\WebApplication\bin\roslyn\VBCSCompiler.exe
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_05\05a\WebApplication\WebApplication\bin\roslyn\VBCSCompiler.exe.config
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_05\05a\WebApplication\WebApplication\bin\Antlr3.Runtime.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_05\05a\WebApplication\WebApplication\bin\Microsoft.AI.Agent.Intercept.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_05\05a\WebApplication\WebApplication\bin\Microsoft.AI.DependencyCollector.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_05\05a\WebApplication\WebApplication\bin\Microsoft.AI.PerfCounterCollector.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_05\05a\WebApplication\WebApplication\bin\Microsoft.AI.ServerTelemetryChannel.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_05\05a\WebApplication\WebApplication\bin\Microsoft.AI.Web.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_05\05a\WebApplication\WebApplication\bin\Microsoft.AI.WindowsServer.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_05\05a\WebApplication\WebApplication\bin\Microsoft.ApplicationInsights.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_05\05a\WebApplication\WebApplication\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_05\05a\WebApplication\WebApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_05\05a\WebApplication\WebApplication\bin\Microsoft.Web.Infrastructure.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_05\05a\WebApplication\WebApplication\bin\Newtonsoft.Json.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_05\05a\WebApplication\WebApplication\bin\System.Diagnostics.DiagnosticSource.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_05\05a\WebApplication\WebApplication\bin\System.Web.Helpers.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_05\05a\WebApplication\WebApplication\bin\System.Web.Mvc.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_05\05a\WebApplication\WebApplication\bin\System.Web.Optimization.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_05\05a\WebApplication\WebApplication\bin\System.Web.Razor.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_05\05a\WebApplication\WebApplication\bin\System.Web.WebPages.Deployment.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_05\05a\WebApplication\WebApplication\bin\System.Web.WebPages.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_05\05a\WebApplication\WebApplication\bin\System.Web.WebPages.Razor.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_05\05a\WebApplication\WebApplication\bin\WebGrease.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_05\05a\WebApplication\WebApplication\bin\System.Web.Helpers.xml
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_05\05a\WebApplication\WebApplication\bin\System.Web.Mvc.xml
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_05\05a\WebApplication\WebApplication\bin\System.Web.Optimization.xml
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_05\05a\WebApplication\WebApplication\bin\System.Web.Razor.xml
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_05\05a\WebApplication\WebApplication\bin\System.Web.WebPages.xml
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_05\05a\WebApplication\WebApplication\bin\System.Web.WebPages.Deployment.xml
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_05\05a\WebApplication\WebApplication\bin\System.Web.WebPages.Razor.xml
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_05\05a\WebApplication\WebApplication\bin\Newtonsoft.Json.xml
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_05\05a\WebApplication\WebApplication\bin\Antlr3.Runtime.pdb
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_05\05a\WebApplication\WebApplication\bin\System.Diagnostics.DiagnosticSource.xml
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_05\05a\WebApplication\WebApplication\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_05\05a\WebApplication\WebApplication\bin\Microsoft.AI.DependencyCollector.xml
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_05\05a\WebApplication\WebApplication\bin\Microsoft.AI.WindowsServer.xml
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_05\05a\WebApplication\WebApplication\bin\Microsoft.AI.Web.xml
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_05\05a\WebApplication\WebApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_05\05a\WebApplication\WebApplication\bin\ru\System.Web.Helpers.resources.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_05\05a\WebApplication\WebApplication\bin\ru\System.Web.Mvc.resources.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_05\05a\WebApplication\WebApplication\bin\ru\System.Web.Optimization.resources.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_05\05a\WebApplication\WebApplication\bin\ru\System.Web.Razor.resources.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_05\05a\WebApplication\WebApplication\bin\ru\System.Web.WebPages.resources.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_05\05a\WebApplication\WebApplication\bin\ru\System.Web.WebPages.Deployment.resources.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_05\05a\WebApplication\WebApplication\bin\ru\System.Web.WebPages.Razor.resources.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_05\05a\WebApplication\WebApplication\obj\Debug\WebApplication.csproj.CoreCompileInputs.cache
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_05\05a\WebApplication\WebApplication\obj\Debug\WebApplication.csproj.CopyComplete
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_05\05a\WebApplication\WebApplication\obj\Debug\WebApplication.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_05\05a\WebApplication\WebApplication\obj\Debug\WebApplication.pdb
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_05\05a\WebApplication\WebApplication\obj\Debug\WebApplication.csprojAssemblyReference.cache
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_05\05b\WebApplication\WebApplication\bin\ApplicationInsights.config
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_05\05b\WebApplication\WebApplication\bin\WebApplication.dll.config
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_05\05b\WebApplication\WebApplication\bin\WebApplication.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_05\05b\WebApplication\WebApplication\bin\WebApplication.pdb
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_05\05b\WebApplication\WebApplication\bin\roslyn\csc.exe
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_05\05b\WebApplication\WebApplication\bin\roslyn\csc.exe.config
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_05\05b\WebApplication\WebApplication\bin\roslyn\csc.rsp
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_05\05b\WebApplication\WebApplication\bin\roslyn\csi.exe
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_05\05b\WebApplication\WebApplication\bin\roslyn\csi.exe.config
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_05\05b\WebApplication\WebApplication\bin\roslyn\csi.rsp
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_05\05b\WebApplication\WebApplication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_05\05b\WebApplication\WebApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_05\05b\WebApplication\WebApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_05\05b\WebApplication\WebApplication\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_05\05b\WebApplication\WebApplication\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_05\05b\WebApplication\WebApplication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_05\05b\WebApplication\WebApplication\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_05\05b\WebApplication\WebApplication\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_05\05b\WebApplication\WebApplication\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_05\05b\WebApplication\WebApplication\bin\roslyn\Microsoft.Managed.Core.targets
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_05\05b\WebApplication\WebApplication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_05\05b\WebApplication\WebApplication\bin\roslyn\System.AppContext.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_05\05b\WebApplication\WebApplication\bin\roslyn\System.Collections.Immutable.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_05\05b\WebApplication\WebApplication\bin\roslyn\System.Console.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_05\05b\WebApplication\WebApplication\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_05\05b\WebApplication\WebApplication\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_05\05b\WebApplication\WebApplication\bin\roslyn\System.IO.Compression.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_05\05b\WebApplication\WebApplication\bin\roslyn\System.IO.FileSystem.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_05\05b\WebApplication\WebApplication\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_05\05b\WebApplication\WebApplication\bin\roslyn\System.IO.Pipes.AccessControl.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_05\05b\WebApplication\WebApplication\bin\roslyn\System.IO.Pipes.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_05\05b\WebApplication\WebApplication\bin\roslyn\System.Reflection.Metadata.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_05\05b\WebApplication\WebApplication\bin\roslyn\System.Security.AccessControl.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_05\05b\WebApplication\WebApplication\bin\roslyn\System.Security.Claims.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_05\05b\WebApplication\WebApplication\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_05\05b\WebApplication\WebApplication\bin\roslyn\System.Security.Cryptography.Encoding.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_05\05b\WebApplication\WebApplication\bin\roslyn\System.Security.Cryptography.Primitives.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_05\05b\WebApplication\WebApplication\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_05\05b\WebApplication\WebApplication\bin\roslyn\System.Security.Principal.Windows.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_05\05b\WebApplication\WebApplication\bin\roslyn\System.Text.Encoding.CodePages.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_05\05b\WebApplication\WebApplication\bin\roslyn\System.ValueTuple.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_05\05b\WebApplication\WebApplication\bin\roslyn\System.Xml.ReaderWriter.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_05\05b\WebApplication\WebApplication\bin\roslyn\System.Xml.XmlDocument.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_05\05b\WebApplication\WebApplication\bin\roslyn\System.Xml.XPath.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_05\05b\WebApplication\WebApplication\bin\roslyn\System.Xml.XPath.XDocument.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_05\05b\WebApplication\WebApplication\bin\roslyn\vbc.exe
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_05\05b\WebApplication\WebApplication\bin\roslyn\vbc.exe.config
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_05\05b\WebApplication\WebApplication\bin\roslyn\vbc.rsp
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_05\05b\WebApplication\WebApplication\bin\roslyn\VBCSCompiler.exe
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_05\05b\WebApplication\WebApplication\bin\roslyn\VBCSCompiler.exe.config
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_05\05b\WebApplication\WebApplication\bin\Antlr3.Runtime.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_05\05b\WebApplication\WebApplication\bin\Microsoft.AI.Agent.Intercept.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_05\05b\WebApplication\WebApplication\bin\Microsoft.AI.DependencyCollector.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_05\05b\WebApplication\WebApplication\bin\Microsoft.AI.PerfCounterCollector.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_05\05b\WebApplication\WebApplication\bin\Microsoft.AI.ServerTelemetryChannel.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_05\05b\WebApplication\WebApplication\bin\Microsoft.AI.Web.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_05\05b\WebApplication\WebApplication\bin\Microsoft.AI.WindowsServer.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_05\05b\WebApplication\WebApplication\bin\Microsoft.ApplicationInsights.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_05\05b\WebApplication\WebApplication\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_05\05b\WebApplication\WebApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_05\05b\WebApplication\WebApplication\bin\Microsoft.Web.Infrastructure.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_05\05b\WebApplication\WebApplication\bin\Newtonsoft.Json.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_05\05b\WebApplication\WebApplication\bin\System.Diagnostics.DiagnosticSource.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_05\05b\WebApplication\WebApplication\bin\System.Web.Helpers.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_05\05b\WebApplication\WebApplication\bin\System.Web.Mvc.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_05\05b\WebApplication\WebApplication\bin\System.Web.Optimization.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_05\05b\WebApplication\WebApplication\bin\System.Web.Razor.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_05\05b\WebApplication\WebApplication\bin\System.Web.WebPages.Deployment.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_05\05b\WebApplication\WebApplication\bin\System.Web.WebPages.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_05\05b\WebApplication\WebApplication\bin\System.Web.WebPages.Razor.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_05\05b\WebApplication\WebApplication\bin\WebGrease.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_05\05b\WebApplication\WebApplication\bin\System.Web.Helpers.xml
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_05\05b\WebApplication\WebApplication\bin\System.Web.Mvc.xml
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_05\05b\WebApplication\WebApplication\bin\System.Web.Optimization.xml
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_05\05b\WebApplication\WebApplication\bin\System.Web.Razor.xml
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_05\05b\WebApplication\WebApplication\bin\System.Web.WebPages.xml
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_05\05b\WebApplication\WebApplication\bin\System.Web.WebPages.Deployment.xml
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_05\05b\WebApplication\WebApplication\bin\System.Web.WebPages.Razor.xml
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_05\05b\WebApplication\WebApplication\bin\Newtonsoft.Json.xml
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_05\05b\WebApplication\WebApplication\bin\Antlr3.Runtime.pdb
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_05\05b\WebApplication\WebApplication\bin\System.Diagnostics.DiagnosticSource.xml
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_05\05b\WebApplication\WebApplication\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_05\05b\WebApplication\WebApplication\bin\Microsoft.AI.DependencyCollector.xml
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_05\05b\WebApplication\WebApplication\bin\Microsoft.AI.WindowsServer.xml
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_05\05b\WebApplication\WebApplication\bin\Microsoft.AI.Web.xml
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_05\05b\WebApplication\WebApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_05\05b\WebApplication\WebApplication\bin\ru\System.Web.Helpers.resources.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_05\05b\WebApplication\WebApplication\bin\ru\System.Web.Mvc.resources.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_05\05b\WebApplication\WebApplication\bin\ru\System.Web.Optimization.resources.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_05\05b\WebApplication\WebApplication\bin\ru\System.Web.Razor.resources.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_05\05b\WebApplication\WebApplication\bin\ru\System.Web.WebPages.resources.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_05\05b\WebApplication\WebApplication\bin\ru\System.Web.WebPages.Deployment.resources.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_05\05b\WebApplication\WebApplication\bin\ru\System.Web.WebPages.Razor.resources.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_05\05b\WebApplication\WebApplication\obj\Debug\WebApplication.csproj.CoreCompileInputs.cache
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_05\05b\WebApplication\WebApplication\obj\Debug\WebApplication.csproj.CopyComplete
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_05\05b\WebApplication\WebApplication\obj\Debug\WebApplication.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_05\05b\WebApplication\WebApplication\obj\Debug\WebApplication.pdb
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_05\05b\WebApplication\WebApplication\obj\Debug\WebApplication.csprojAssemblyReference.cache
+C:\SITES\publish\05b\WebApplication\WebApplication\bin\ApplicationInsights.config
+C:\SITES\publish\05b\WebApplication\WebApplication\bin\WebApplication.dll.config
+C:\SITES\publish\05b\WebApplication\WebApplication\bin\WebApplication.dll
+C:\SITES\publish\05b\WebApplication\WebApplication\bin\WebApplication.pdb
+C:\SITES\publish\05b\WebApplication\WebApplication\bin\roslyn\csc.exe
+C:\SITES\publish\05b\WebApplication\WebApplication\bin\roslyn\csc.exe.config
+C:\SITES\publish\05b\WebApplication\WebApplication\bin\roslyn\csc.rsp
+C:\SITES\publish\05b\WebApplication\WebApplication\bin\roslyn\csi.exe
+C:\SITES\publish\05b\WebApplication\WebApplication\bin\roslyn\csi.exe.config
+C:\SITES\publish\05b\WebApplication\WebApplication\bin\roslyn\csi.rsp
+C:\SITES\publish\05b\WebApplication\WebApplication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\SITES\publish\05b\WebApplication\WebApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\SITES\publish\05b\WebApplication\WebApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\SITES\publish\05b\WebApplication\WebApplication\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\SITES\publish\05b\WebApplication\WebApplication\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\SITES\publish\05b\WebApplication\WebApplication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\SITES\publish\05b\WebApplication\WebApplication\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\SITES\publish\05b\WebApplication\WebApplication\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\SITES\publish\05b\WebApplication\WebApplication\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\SITES\publish\05b\WebApplication\WebApplication\bin\roslyn\Microsoft.Managed.Core.targets
+C:\SITES\publish\05b\WebApplication\WebApplication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\SITES\publish\05b\WebApplication\WebApplication\bin\roslyn\System.AppContext.dll
+C:\SITES\publish\05b\WebApplication\WebApplication\bin\roslyn\System.Collections.Immutable.dll
+C:\SITES\publish\05b\WebApplication\WebApplication\bin\roslyn\System.Console.dll
+C:\SITES\publish\05b\WebApplication\WebApplication\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\SITES\publish\05b\WebApplication\WebApplication\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\SITES\publish\05b\WebApplication\WebApplication\bin\roslyn\System.IO.Compression.dll
+C:\SITES\publish\05b\WebApplication\WebApplication\bin\roslyn\System.IO.FileSystem.dll
+C:\SITES\publish\05b\WebApplication\WebApplication\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\SITES\publish\05b\WebApplication\WebApplication\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\SITES\publish\05b\WebApplication\WebApplication\bin\roslyn\System.IO.Pipes.dll
+C:\SITES\publish\05b\WebApplication\WebApplication\bin\roslyn\System.Reflection.Metadata.dll
+C:\SITES\publish\05b\WebApplication\WebApplication\bin\roslyn\System.Security.AccessControl.dll
+C:\SITES\publish\05b\WebApplication\WebApplication\bin\roslyn\System.Security.Claims.dll
+C:\SITES\publish\05b\WebApplication\WebApplication\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\SITES\publish\05b\WebApplication\WebApplication\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\SITES\publish\05b\WebApplication\WebApplication\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\SITES\publish\05b\WebApplication\WebApplication\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\SITES\publish\05b\WebApplication\WebApplication\bin\roslyn\System.Security.Principal.Windows.dll
+C:\SITES\publish\05b\WebApplication\WebApplication\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\SITES\publish\05b\WebApplication\WebApplication\bin\roslyn\System.ValueTuple.dll
+C:\SITES\publish\05b\WebApplication\WebApplication\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\SITES\publish\05b\WebApplication\WebApplication\bin\roslyn\System.Xml.XmlDocument.dll
+C:\SITES\publish\05b\WebApplication\WebApplication\bin\roslyn\System.Xml.XPath.dll
+C:\SITES\publish\05b\WebApplication\WebApplication\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\SITES\publish\05b\WebApplication\WebApplication\bin\roslyn\vbc.exe
+C:\SITES\publish\05b\WebApplication\WebApplication\bin\roslyn\vbc.exe.config
+C:\SITES\publish\05b\WebApplication\WebApplication\bin\roslyn\vbc.rsp
+C:\SITES\publish\05b\WebApplication\WebApplication\bin\roslyn\VBCSCompiler.exe
+C:\SITES\publish\05b\WebApplication\WebApplication\bin\roslyn\VBCSCompiler.exe.config
+C:\SITES\publish\05b\WebApplication\WebApplication\bin\Antlr3.Runtime.dll
+C:\SITES\publish\05b\WebApplication\WebApplication\bin\Microsoft.AI.Agent.Intercept.dll
+C:\SITES\publish\05b\WebApplication\WebApplication\bin\Microsoft.AI.DependencyCollector.dll
+C:\SITES\publish\05b\WebApplication\WebApplication\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\SITES\publish\05b\WebApplication\WebApplication\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\SITES\publish\05b\WebApplication\WebApplication\bin\Microsoft.AI.Web.dll
+C:\SITES\publish\05b\WebApplication\WebApplication\bin\Microsoft.AI.WindowsServer.dll
+C:\SITES\publish\05b\WebApplication\WebApplication\bin\Microsoft.ApplicationInsights.dll
+C:\SITES\publish\05b\WebApplication\WebApplication\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\SITES\publish\05b\WebApplication\WebApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\SITES\publish\05b\WebApplication\WebApplication\bin\Microsoft.Web.Infrastructure.dll
+C:\SITES\publish\05b\WebApplication\WebApplication\bin\Newtonsoft.Json.dll
+C:\SITES\publish\05b\WebApplication\WebApplication\bin\System.Diagnostics.DiagnosticSource.dll
+C:\SITES\publish\05b\WebApplication\WebApplication\bin\System.Web.Helpers.dll
+C:\SITES\publish\05b\WebApplication\WebApplication\bin\System.Web.Mvc.dll
+C:\SITES\publish\05b\WebApplication\WebApplication\bin\System.Web.Optimization.dll
+C:\SITES\publish\05b\WebApplication\WebApplication\bin\System.Web.Razor.dll
+C:\SITES\publish\05b\WebApplication\WebApplication\bin\System.Web.WebPages.Deployment.dll
+C:\SITES\publish\05b\WebApplication\WebApplication\bin\System.Web.WebPages.dll
+C:\SITES\publish\05b\WebApplication\WebApplication\bin\System.Web.WebPages.Razor.dll
+C:\SITES\publish\05b\WebApplication\WebApplication\bin\WebGrease.dll
+C:\SITES\publish\05b\WebApplication\WebApplication\bin\System.Web.Helpers.xml
+C:\SITES\publish\05b\WebApplication\WebApplication\bin\System.Web.Mvc.xml
+C:\SITES\publish\05b\WebApplication\WebApplication\bin\System.Web.Optimization.xml
+C:\SITES\publish\05b\WebApplication\WebApplication\bin\System.Web.Razor.xml
+C:\SITES\publish\05b\WebApplication\WebApplication\bin\System.Web.WebPages.xml
+C:\SITES\publish\05b\WebApplication\WebApplication\bin\System.Web.WebPages.Deployment.xml
+C:\SITES\publish\05b\WebApplication\WebApplication\bin\System.Web.WebPages.Razor.xml
+C:\SITES\publish\05b\WebApplication\WebApplication\bin\Newtonsoft.Json.xml
+C:\SITES\publish\05b\WebApplication\WebApplication\bin\Antlr3.Runtime.pdb
+C:\SITES\publish\05b\WebApplication\WebApplication\bin\System.Diagnostics.DiagnosticSource.xml
+C:\SITES\publish\05b\WebApplication\WebApplication\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\SITES\publish\05b\WebApplication\WebApplication\bin\Microsoft.AI.DependencyCollector.xml
+C:\SITES\publish\05b\WebApplication\WebApplication\bin\Microsoft.AI.WindowsServer.xml
+C:\SITES\publish\05b\WebApplication\WebApplication\bin\Microsoft.AI.Web.xml
+C:\SITES\publish\05b\WebApplication\WebApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\SITES\publish\05b\WebApplication\WebApplication\bin\ru\System.Web.Helpers.resources.dll
+C:\SITES\publish\05b\WebApplication\WebApplication\bin\ru\System.Web.Mvc.resources.dll
+C:\SITES\publish\05b\WebApplication\WebApplication\bin\ru\System.Web.Optimization.resources.dll
+C:\SITES\publish\05b\WebApplication\WebApplication\bin\ru\System.Web.Razor.resources.dll
+C:\SITES\publish\05b\WebApplication\WebApplication\bin\ru\System.Web.WebPages.resources.dll
+C:\SITES\publish\05b\WebApplication\WebApplication\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\SITES\publish\05b\WebApplication\WebApplication\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\SITES\publish\05b\WebApplication\WebApplication\obj\Debug\WebApplication.csprojAssemblyReference.cache
+C:\SITES\publish\05b\WebApplication\WebApplication\obj\Debug\WebApplication.csproj.CoreCompileInputs.cache
+C:\SITES\publish\05b\WebApplication\WebApplication\obj\Debug\WebApplication.csproj.CopyComplete
+C:\SITES\publish\05b\WebApplication\WebApplication\obj\Debug\WebApplication.dll
+C:\SITES\publish\05b\WebApplication\WebApplication\obj\Debug\WebApplication.pdb
+C:\SITES\publish\lab5b\WebApplication\WebApplication\bin\ApplicationInsights.config
+C:\SITES\publish\lab5b\WebApplication\WebApplication\bin\WebApplication.dll.config
+C:\SITES\publish\lab5b\WebApplication\WebApplication\bin\WebApplication.dll
+C:\SITES\publish\lab5b\WebApplication\WebApplication\bin\WebApplication.pdb
+C:\SITES\publish\lab5b\WebApplication\WebApplication\bin\roslyn\csc.exe
+C:\SITES\publish\lab5b\WebApplication\WebApplication\bin\roslyn\csc.exe.config
+C:\SITES\publish\lab5b\WebApplication\WebApplication\bin\roslyn\csc.rsp
+C:\SITES\publish\lab5b\WebApplication\WebApplication\bin\roslyn\csi.exe
+C:\SITES\publish\lab5b\WebApplication\WebApplication\bin\roslyn\csi.exe.config
+C:\SITES\publish\lab5b\WebApplication\WebApplication\bin\roslyn\csi.rsp
+C:\SITES\publish\lab5b\WebApplication\WebApplication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\SITES\publish\lab5b\WebApplication\WebApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\SITES\publish\lab5b\WebApplication\WebApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\SITES\publish\lab5b\WebApplication\WebApplication\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\SITES\publish\lab5b\WebApplication\WebApplication\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\SITES\publish\lab5b\WebApplication\WebApplication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\SITES\publish\lab5b\WebApplication\WebApplication\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\SITES\publish\lab5b\WebApplication\WebApplication\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\SITES\publish\lab5b\WebApplication\WebApplication\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\SITES\publish\lab5b\WebApplication\WebApplication\bin\roslyn\Microsoft.Managed.Core.targets
+C:\SITES\publish\lab5b\WebApplication\WebApplication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\SITES\publish\lab5b\WebApplication\WebApplication\bin\roslyn\System.AppContext.dll
+C:\SITES\publish\lab5b\WebApplication\WebApplication\bin\roslyn\System.Collections.Immutable.dll
+C:\SITES\publish\lab5b\WebApplication\WebApplication\bin\roslyn\System.Console.dll
+C:\SITES\publish\lab5b\WebApplication\WebApplication\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\SITES\publish\lab5b\WebApplication\WebApplication\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\SITES\publish\lab5b\WebApplication\WebApplication\bin\roslyn\System.IO.Compression.dll
+C:\SITES\publish\lab5b\WebApplication\WebApplication\bin\roslyn\System.IO.FileSystem.dll
+C:\SITES\publish\lab5b\WebApplication\WebApplication\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\SITES\publish\lab5b\WebApplication\WebApplication\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\SITES\publish\lab5b\WebApplication\WebApplication\bin\roslyn\System.IO.Pipes.dll
+C:\SITES\publish\lab5b\WebApplication\WebApplication\bin\roslyn\System.Reflection.Metadata.dll
+C:\SITES\publish\lab5b\WebApplication\WebApplication\bin\roslyn\System.Security.AccessControl.dll
+C:\SITES\publish\lab5b\WebApplication\WebApplication\bin\roslyn\System.Security.Claims.dll
+C:\SITES\publish\lab5b\WebApplication\WebApplication\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\SITES\publish\lab5b\WebApplication\WebApplication\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\SITES\publish\lab5b\WebApplication\WebApplication\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\SITES\publish\lab5b\WebApplication\WebApplication\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\SITES\publish\lab5b\WebApplication\WebApplication\bin\roslyn\System.Security.Principal.Windows.dll
+C:\SITES\publish\lab5b\WebApplication\WebApplication\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\SITES\publish\lab5b\WebApplication\WebApplication\bin\roslyn\System.ValueTuple.dll
+C:\SITES\publish\lab5b\WebApplication\WebApplication\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\SITES\publish\lab5b\WebApplication\WebApplication\bin\roslyn\System.Xml.XmlDocument.dll
+C:\SITES\publish\lab5b\WebApplication\WebApplication\bin\roslyn\System.Xml.XPath.dll
+C:\SITES\publish\lab5b\WebApplication\WebApplication\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\SITES\publish\lab5b\WebApplication\WebApplication\bin\roslyn\vbc.exe
+C:\SITES\publish\lab5b\WebApplication\WebApplication\bin\roslyn\vbc.exe.config
+C:\SITES\publish\lab5b\WebApplication\WebApplication\bin\roslyn\vbc.rsp
+C:\SITES\publish\lab5b\WebApplication\WebApplication\bin\roslyn\VBCSCompiler.exe
+C:\SITES\publish\lab5b\WebApplication\WebApplication\bin\roslyn\VBCSCompiler.exe.config
+C:\SITES\publish\lab5b\WebApplication\WebApplication\bin\Antlr3.Runtime.dll
+C:\SITES\publish\lab5b\WebApplication\WebApplication\bin\Microsoft.AI.Agent.Intercept.dll
+C:\SITES\publish\lab5b\WebApplication\WebApplication\bin\Microsoft.AI.DependencyCollector.dll
+C:\SITES\publish\lab5b\WebApplication\WebApplication\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\SITES\publish\lab5b\WebApplication\WebApplication\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\SITES\publish\lab5b\WebApplication\WebApplication\bin\Microsoft.AI.Web.dll
+C:\SITES\publish\lab5b\WebApplication\WebApplication\bin\Microsoft.AI.WindowsServer.dll
+C:\SITES\publish\lab5b\WebApplication\WebApplication\bin\Microsoft.ApplicationInsights.dll
+C:\SITES\publish\lab5b\WebApplication\WebApplication\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\SITES\publish\lab5b\WebApplication\WebApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\SITES\publish\lab5b\WebApplication\WebApplication\bin\Microsoft.Web.Infrastructure.dll
+C:\SITES\publish\lab5b\WebApplication\WebApplication\bin\Newtonsoft.Json.dll
+C:\SITES\publish\lab5b\WebApplication\WebApplication\bin\System.Diagnostics.DiagnosticSource.dll
+C:\SITES\publish\lab5b\WebApplication\WebApplication\bin\System.Web.Helpers.dll
+C:\SITES\publish\lab5b\WebApplication\WebApplication\bin\System.Web.Mvc.dll
+C:\SITES\publish\lab5b\WebApplication\WebApplication\bin\System.Web.Optimization.dll
+C:\SITES\publish\lab5b\WebApplication\WebApplication\bin\System.Web.Razor.dll
+C:\SITES\publish\lab5b\WebApplication\WebApplication\bin\System.Web.WebPages.Deployment.dll
+C:\SITES\publish\lab5b\WebApplication\WebApplication\bin\System.Web.WebPages.dll
+C:\SITES\publish\lab5b\WebApplication\WebApplication\bin\System.Web.WebPages.Razor.dll
+C:\SITES\publish\lab5b\WebApplication\WebApplication\bin\WebGrease.dll
+C:\SITES\publish\lab5b\WebApplication\WebApplication\bin\System.Web.Helpers.xml
+C:\SITES\publish\lab5b\WebApplication\WebApplication\bin\System.Web.Mvc.xml
+C:\SITES\publish\lab5b\WebApplication\WebApplication\bin\System.Web.Optimization.xml
+C:\SITES\publish\lab5b\WebApplication\WebApplication\bin\System.Web.Razor.xml
+C:\SITES\publish\lab5b\WebApplication\WebApplication\bin\System.Web.WebPages.xml
+C:\SITES\publish\lab5b\WebApplication\WebApplication\bin\System.Web.WebPages.Deployment.xml
+C:\SITES\publish\lab5b\WebApplication\WebApplication\bin\System.Web.WebPages.Razor.xml
+C:\SITES\publish\lab5b\WebApplication\WebApplication\bin\Newtonsoft.Json.xml
+C:\SITES\publish\lab5b\WebApplication\WebApplication\bin\Antlr3.Runtime.pdb
+C:\SITES\publish\lab5b\WebApplication\WebApplication\bin\System.Diagnostics.DiagnosticSource.xml
+C:\SITES\publish\lab5b\WebApplication\WebApplication\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\SITES\publish\lab5b\WebApplication\WebApplication\bin\Microsoft.AI.DependencyCollector.xml
+C:\SITES\publish\lab5b\WebApplication\WebApplication\bin\Microsoft.AI.WindowsServer.xml
+C:\SITES\publish\lab5b\WebApplication\WebApplication\bin\Microsoft.AI.Web.xml
+C:\SITES\publish\lab5b\WebApplication\WebApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\SITES\publish\lab5b\WebApplication\WebApplication\bin\ru\System.Web.Helpers.resources.dll
+C:\SITES\publish\lab5b\WebApplication\WebApplication\bin\ru\System.Web.Mvc.resources.dll
+C:\SITES\publish\lab5b\WebApplication\WebApplication\bin\ru\System.Web.Optimization.resources.dll
+C:\SITES\publish\lab5b\WebApplication\WebApplication\bin\ru\System.Web.Razor.resources.dll
+C:\SITES\publish\lab5b\WebApplication\WebApplication\bin\ru\System.Web.WebPages.resources.dll
+C:\SITES\publish\lab5b\WebApplication\WebApplication\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\SITES\publish\lab5b\WebApplication\WebApplication\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\SITES\publish\lab5b\WebApplication\WebApplication\obj\Debug\WebApplication.csprojAssemblyReference.cache
+C:\SITES\publish\lab5b\WebApplication\WebApplication\obj\Debug\WebApplication.csproj.CoreCompileInputs.cache
+C:\SITES\publish\lab5b\WebApplication\WebApplication\obj\Debug\WebApplication.csproj.CopyComplete
+C:\SITES\publish\lab5b\WebApplication\WebApplication\obj\Debug\WebApplication.dll
+C:\SITES\publish\lab5b\WebApplication\WebApplication\obj\Debug\WebApplication.pdb
