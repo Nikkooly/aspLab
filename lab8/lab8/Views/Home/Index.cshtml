@@ -1,0 +1,34 @@
+﻿@model IEnumerable<lab8.Models.PhoneBook>
+@{
+    ViewBag.Title = "Index";
+    Layout = null;
+}
+<!DOCTYPE html>
+
+<html>
+<head>
+    <title>PhoneBoook</title>
+</head>
+<body>
+    <h3>Contacts</h3>
+    <table>
+        <tr>
+            <td>Id</td>
+            <td>Name</td>
+            <td>Phone</td>
+            <td></td>
+        </tr>
+        @foreach (var phone in ViewBag.PhoneBook)
+        {
+            <tr>
+                <td>@phone.Id</td>
+                <td>@phone.Name</td>
+                <td>@phone.Phone</td>
+                <td><a href="~/Home/Delete/@phone.Id">Delete</a></td>
+                <td><a href="~/Home/Update/@phone.Id">Update</a></td>
+            </tr>
+        }
+    </table>
+    <form method="get" action="~/Home/Add"><input type="submit" value="Add Contact" /></form>
+</body>
+</html>

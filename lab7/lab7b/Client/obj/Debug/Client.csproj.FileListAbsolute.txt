@@ -1,0 +1,13 @@
+C:\SITES\lab7\lab7b\Client\obj\Debug\Client.csprojAssemblyReference.cache
+C:\SITES\lab7\lab7b\Client\obj\Debug\Client.Form1.resources
+C:\SITES\lab7\lab7b\Client\obj\Debug\Client.Properties.Resources.resources
+C:\SITES\lab7\lab7b\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\SITES\lab7\lab7b\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\SITES\lab7\lab7b\Client\bin\Debug\Client.exe.config
+C:\SITES\lab7\lab7b\Client\bin\Debug\Client.exe
+C:\SITES\lab7\lab7b\Client\bin\Debug\Client.pdb
+C:\SITES\lab7\lab7b\Client\bin\Debug\PhoneRepository.dll
+C:\SITES\lab7\lab7b\Client\bin\Debug\PhoneRepository.pdb
+C:\SITES\lab7\lab7b\Client\obj\Debug\Client.csproj.CopyComplete
+C:\SITES\lab7\lab7b\Client\obj\Debug\Client.exe
+C:\SITES\lab7\lab7b\Client\obj\Debug\Client.pdb

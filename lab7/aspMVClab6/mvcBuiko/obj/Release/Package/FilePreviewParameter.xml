@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="AspNetLabs" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\buian\\source\\repos\\mvcBuiko\\mvcBuiko\\obj\\Release\\Package\\PackageTmp$" />
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^C:\\Users\\buian\\source\\repos\\mvcBuiko\\mvcBuiko\\obj\\Release\\Package\\PackageTmp$" />
+  </parameter>
+  <parameter name="Add write permission to App_Data Folder" description="Add write permission to App_Data folder" value="AspNetLabs/App_Data" tags="Hidden">
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^C:\\Users\\buian\\source\\repos\\mvcBuiko\\mvcBuiko\\obj\\Release\\Package\\PackageTmp\\App_Data$" />
+  </parameter>
+  <parameter name="ContactContext-Web.config Connection String" description="" value="Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename='|DataDirectory|\Phonebook2.mdf';Integrated Security=True" tags="">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\buian\\source\\repos\\mvcBuiko\\mvcBuiko\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='ContactContext']/@connectionString" />
+  </parameter>
+</parameters>

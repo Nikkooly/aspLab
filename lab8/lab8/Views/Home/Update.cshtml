@@ -1,0 +1,17 @@
+﻿
+@{
+    ViewBag.Title = "Update";
+    Layout = null;
+}
+@foreach (var item in ViewBag.PhoneBook)
+{
+    if (item.Id == ViewBag.Id)
+    {
+        <form method="post" action="~/Home/UpdateSave">
+            <input type="hidden" id="id" name="id" value="@ViewBag.Id" />
+            <input type="text" id="name" name="name" value="@item.Name" />
+            <input type="text" id="phones" name="phones" value="@item.Phone" />
+            <input type="submit" value="Update" />
+        </form>
+    }
+}

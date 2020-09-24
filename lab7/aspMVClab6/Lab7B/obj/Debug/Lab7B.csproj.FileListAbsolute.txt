@@ -1,0 +1,13 @@
+C:\Users\buian\source\repos\aspMVClab6\Lab7B\bin\Debug\Lab7B.exe.config
+C:\Users\buian\source\repos\aspMVClab6\Lab7B\bin\Debug\Lab7B.exe
+C:\Users\buian\source\repos\aspMVClab6\Lab7B\bin\Debug\Lab7B.pdb
+C:\Users\buian\source\repos\aspMVClab6\Lab7B\obj\Debug\Lab7B.csprojAssemblyReference.cache
+C:\Users\buian\source\repos\aspMVClab6\Lab7B\obj\Debug\Lab7B.Properties.Resources.resources
+C:\Users\buian\source\repos\aspMVClab6\Lab7B\obj\Debug\Lab7B.csproj.GenerateResource.cache
+C:\Users\buian\source\repos\aspMVClab6\Lab7B\obj\Debug\Lab7B.csproj.CoreCompileInputs.cache
+C:\Users\buian\source\repos\aspMVClab6\Lab7B\obj\Debug\Lab7B.exe
+C:\Users\buian\source\repos\aspMVClab6\Lab7B\obj\Debug\Lab7B.pdb
+C:\Users\buian\source\repos\aspMVClab6\Lab7B\obj\Debug\Lab7B.Form1.resources
+C:\Users\buian\source\repos\aspMVClab6\Lab7B\bin\Debug\PhoneRepository.dll
+C:\Users\buian\source\repos\aspMVClab6\Lab7B\bin\Debug\PhoneRepository.pdb
+C:\Users\buian\source\repos\aspMVClab6\Lab7B\obj\Debug\Lab7B.csproj.CopyComplete
