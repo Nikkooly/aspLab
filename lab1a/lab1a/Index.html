@@ -1,0 +1,36 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+</head>
+<body>
+    <script type="text/javascript">
+        function sum() {
+            let oReq = new XMLHttpRequest();
+            let x = document.getElementById("x").value;
+            let y = document.getElementById("y").value;
+            let data = new FormData();
+            data.append('x', x);
+            data.append('y', y);
+            let sUrl = "http://localhost:49116/sum.yns";
+            oReq.open("POST", sUrl, true);
+            oReq.onreadystatechange = function () {
+                if (oReq.readyState == 4 && oReq.status == 200) {
+                    document.getElementById("result").innerHTML += oReq.responseText;
+                }
+            }
+            oReq.send(data);
+        }
+    </script>
+
+    <div>
+        <input type="text" id="x" />
+        <input type="text" id="y" />
+        <input type="button" value="SumButton" onclick="sum()" style="width: 170px" />
+    </div>
+    <div>
+        <p id="result">Sum = </p>
+    </div>
+</body>
+</html>
